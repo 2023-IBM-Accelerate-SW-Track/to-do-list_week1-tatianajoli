@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/_BS1h0pS)
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=11305133&assignment_repo_type=AssignmentRepo)
 # Project Week 1: To-do list application
 ## Introduction
@@ -72,7 +73,7 @@ Note: The styling for all pages are provided for you. However, feel free to play
       </Button>
 
       ```
-    + navigate to`src/components/todos.js`
+    + navigate to `src/components/todos.js`
       1. Import material UI components like so: `import {Card,CardContent,Grid,ListItemButton,ListItemText,Checkbox,} from "@mui/material";`
       2. Inside the `CardContent` MUI tag replace the `add todo content`. Remember to use curly braces {}.
       3. Enter "You have no todo's left" in the `p` tag.
